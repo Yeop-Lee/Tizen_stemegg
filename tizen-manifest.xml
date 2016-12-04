@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.1" package="org.example.stemwatch" version="1.0.0">
+    <profile name="wearable"/>
+    <watch-application ambient-support="true" appid="org.example.stemwatch" exec="stemwatch">
+        <label>stemwatch</label>
+        <icon>stemwatch.png</icon>
+    </watch-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/healthinfo</privilege>
+        <privilege>http://tizen.org/privilege/alarm.set</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/sensor.heart_rate_monitor.led_ir">true</feature>
+    <feature name="http://tizen.org/feature/sensor.heart_rate_monitor.led_red">true</feature>
+    <feature name="http://tizen.org/feature/sensor.heart_rate_monitor">true</feature>
+    <feature name="http://tizen.org/feature/sensor.heart_rate_monitor.led_green">true</feature>
+</manifest>
