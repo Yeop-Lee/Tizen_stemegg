@@ -1,12 +1,10 @@
 # STEM EGG
 
-#Subject
+##Smart Watch for Persuasion computing
 
-## Smart Watch for Persuasion computing
+* Using user's everyday life-logs 
 
-* A. The input data <-- Life-logs 
-
-* B. Watch application communicate with users 
+* Watch application communicate with users 
 
 ##Our Suggesting Module
 
