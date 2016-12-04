@@ -8,7 +8,7 @@
 
 * B. Watch application communicate with users 
 
-##세부 내용
+##Our Suggesting Module
 
 * Attend Class : Can give you feedback when is the class start
 
