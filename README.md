@@ -1,11 +1,17 @@
 # STEM EGG
 
-#연구 주제
-## 설득 컴퓨팅을 적용한 스마트 워치
-* A. 일상생활의 데이터를 인풋으로 받아,
-* B. 사용자에게 시작적으로 피드백을 해주는 어플리케이션을 개발
+#Subject
 
-#세부 내용
-* Attend Class : 수업 시간이 되면 알람이 오도록 설정함
-* Your Heart Rate : HR을 기준으로 다양한 배경화면을 적용함
-* Stretch : 스트레칭을 요구하고 스트레칭을 하면 넘어가도록 설정함 
+## Smart Watch for Persuasion computing
+
+* A. The input data <-- Life-logs 
+
+* B. Watch application communicate with users 
+
+##세부 내용
+
+* Attend Class : Can give you feedback when is the class start
+
+* Your Heart Rate : Change background  when your HR change loudly
+
+* Stretch : Randomly ask stretching and then, detect your stretch
